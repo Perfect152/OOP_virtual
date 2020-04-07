@@ -5,7 +5,7 @@
 //виртуальный базовый класс
 class Shape
 {
-  protected:
+  public:
     int mainColor = 0;
     int linesColor = 0;
     virtual void Draw () = 0; //чистая виртуальная функция
