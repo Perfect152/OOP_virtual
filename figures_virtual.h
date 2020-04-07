@@ -1,6 +1,6 @@
 #pragma once
 
-#include "shape_no_virtual.h"
+#include "shape_interface.h"
 
 class Triangle: public Shape
 {
