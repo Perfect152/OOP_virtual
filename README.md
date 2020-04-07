@@ -33,6 +33,8 @@
 ===================================================================================
 ЗАДАНИЯ в файле tasks.txt
 
-`Все вопросы, замечания, предложения:
-`Skype (группа) - https://join.skype.com/bycNDrec807e
-`Telegram (группа) - https://t.me/joinchat/AAAAAEyZcV3oTTOJ9HUpUg
+Все вопросы, замечания, предложения:
+
+Skype (группа) - https://join.skype.com/bycNDrec807e
+
+Telegram (группа) - https://t.me/joinchat/AAAAAEyZcV3oTTOJ9HUpUg
