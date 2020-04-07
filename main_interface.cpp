@@ -34,7 +34,7 @@ void CreateShapes (std::vector <Shape*>& s)
 void PrintShapes (const std::vector <Shape*>& s)
 {
   for (const auto& shape: s)
-    s.Draw ();
+    shape->Draw ();
 }
 
 int main ()
