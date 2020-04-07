@@ -3,9 +3,9 @@
 #include <vector>
 
 #ifdef NO_VIRTUAL
-#include "shape_no_virtual.h"
+#include "figures_no_virtual.h"
 #else
-#include "shape_virtual.h"
+#include "figures_virtual.h"
 #endif
 
 std::vector <Shape*> shapes;
